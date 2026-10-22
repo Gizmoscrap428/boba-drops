@@ -1,0 +1,10 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: vh;
+	margin: 0;
+	text-align: center;
+	-webkit-text-fill-color: rgb(19, 20, 20);
+	background-color: rgb(35, 65, 18);
+}
